@@ -1,3 +1,4 @@
 Just kown something about the function of "git reset HEAD" and "git checkout".
 See what is the last status.
 Add sth to test git reset HEAD~[-n].
+Learned sth about stage and master.
