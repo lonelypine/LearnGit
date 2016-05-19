@@ -1,1 +1,1 @@
-Test.
+Just kown something about the function of "git reset HEAD" and "git checkout".
